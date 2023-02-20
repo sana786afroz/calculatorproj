@@ -1,0 +1,43 @@
+.calc{
+  /* width: 150px;
+  margin: 100px auto; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+
+}
+#data {
+  background-color: plum;
+  padding: 20px;
+  font-size: 3rem;
+  /* width: 400px; */
+  height: 9rem;
+  padding: 10%;
+  border-radius: 10px;
+  border: 5px solid purple ;
+  text-align: start;
+  display: flex;
+}
+/* .button {
+  background: lightseagreen;
+  width: 150px;
+  height: 150px;
+  color: black;
+  font-size: 30px;
+  border: 2px solid black;
+  border-radius: 20px;
+  float: left;
+  justify-content: center;
+
+} */
+/* .button2 {
+  width: 400px;
+  height: 100px;
+  font-family: fantasy;
+  font-size: 32px;
+  justify-content: center;
+  display: flex;
+  
+
+} */
